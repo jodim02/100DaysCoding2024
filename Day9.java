@@ -12,5 +12,6 @@ public class Day9{
     public static void main(String[] args) {
       //Menampilkan nilai
         System.out.println("Contoh Tipe file: " + PDF +","+ DOC+"," + PPT+"," + TXT);
+   
     }
 }
