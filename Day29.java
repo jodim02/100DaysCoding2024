@@ -3,10 +3,9 @@ import java.math.BigInteger;
 
 public class Day29 {
     public static void main(String[] args) {
-        BigInteger angka1 = new BigInteger("12345");
-        BigInteger angka2 = new BigInteger("6789");
-
-        BigInteger hasilTambah = angka1.add(angka2);
-        System.out.println("Hasil Penjumlahan: " + hasilTambah);
+        BigInteger A = new BigInteger("1234567");
+        BigInteger B = new BigInteger("3456789");
+        System.out.println("Nilai 1: " + A);
+        System.out.println("Nilai 2: " + B);
     }
 }
