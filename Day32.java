@@ -14,5 +14,5 @@ public class Day32 {
         System.out.println("Konversi ke int = " + a);
         System.out.println("Konversi ke doble = " + c);
     }
-    
+   
 }
