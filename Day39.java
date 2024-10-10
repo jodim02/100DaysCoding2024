@@ -6,7 +6,7 @@ public class Day39 {
         //Deklarasi variabel
         int x = 9;
         //Pengisian dan Modulo
-        nilai %= 2;
+        x %= 2;
         System.out.println("Sisa Bagi : " + x);
     }
     
