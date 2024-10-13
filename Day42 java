@@ -7,7 +7,7 @@ public class Day42 {
         Boolean d = a == b;
         Boolean e = b != c;
         System.out.println("Nilai a sama dengan nilai b : " + d);
-        System.out.println("Nilai b tidak sama dengan nilai c : " + e);
+        System.out.println("Nilai b tidak sama dengan nilai c : " + e); 
     }
     
 }
