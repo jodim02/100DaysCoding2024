@@ -6,9 +6,9 @@ public class Day48{
 		System.out.print("Masukkan nilai : ");
 		int nilai = input.nextInt();
 		if(nilai > 0){	
-			System.out.println("Nilai Genap");
+			System.out.println("Nilai Positif");
 		}else{
-			System.out.println("Nilai Ganjil");
+			System.out.println("Nilai Negatif");
 		}
 	}
 }
