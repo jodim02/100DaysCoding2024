@@ -1,5 +1,5 @@
 package project100dayscoding;
-public class Main {
+public class Day60 {
     public static void main(String[] args) {
         
         int a = 1;
