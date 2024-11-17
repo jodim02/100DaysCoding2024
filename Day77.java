@@ -7,10 +7,7 @@ public class Day77 {
         String b = "Negatif";
         String c = "Positif";
         
-        boolean banding1 = a.equals(b);
-        boolean banding2 = a.equals(c);
-        
-        System.out.println("Perbandingan a : b = " + banding1);
-        System.out.println("Perbandingan a : c = " + banding2);
+        System.out.println(a.equals(b));
+        System.out.println(a.equals(c));
     }
 }
