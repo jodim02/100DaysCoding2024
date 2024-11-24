@@ -1,10 +1,14 @@
 package project100dayscoding;
 
-public class Day83 {
+public class Main {
     
     public static void main(String[] args) {
         // Membuat array 1 dimensi
-        int[] nilai = new int[8];
+        // Cara1
+        int[] nilai = new int[5];
+        
+        // Cara2
+        int angka[] = new int[5];
     }
     
 }
