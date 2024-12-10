@@ -19,7 +19,7 @@ public class Day100 {
         }    
         System.out.println("===============================");
         System.out.println(" " + salam + ", " + nama);
-        System.out.println(" "+"Program telah selesai");
+        System.out.println(" "+"Program anda telah selesai");
         System.out.println("===============================");
     }
 }
